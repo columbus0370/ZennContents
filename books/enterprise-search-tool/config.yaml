@@ -1,0 +1,10 @@
+title: "gBizINFO × Claude APIで作るAI営業アシスタント全実装"
+summary: "フリーランスが実際に営業で使っているツールをゼロから解説。gBizINFO APIで企業検索、Claude APIで営業メール自動生成。FastAPI + React + Vercel + Render.comの全コードを掲載。"
+topics: ["claude", "fastapi", "react", "python"]
+published: true
+price: 500
+chapters:
+  - ch01
+  - ch02
+  - ch03
+  - ch04
